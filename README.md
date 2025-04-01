@@ -7,7 +7,7 @@ This project uses Python and machine learning to forecast the next-day stock pri
 
 The semiconductor industry plays a critical role in powering global innovation, from consumer electronics and AI to industrial automation and renewable energy. Over the past decade, semiconductor equipment manufacturers like **Applied Materials (AMAT)** have experienced significant market growth, driven by rising chip demand, cyclical supply constraints, and rapid advances in fabrication technologies.
 
-Given the high volatility and market sensitivity of semiconductor stocks, this project aims to build a reliable, data-driven model that can forecast the next-day closing price of AMAT using historical price data and technical indicators. By comparing AMAT’s performance with key peers such as **ASML**, **Lam Research (LRCX)**, **KLA (KLAC)**, and the **S&P 500** index, we aim to better understand market correlations, trends, and predictive patterns that drive price action in this sector.
+Given the high volatility and market sensitivity of semiconductor stocks, this project aims to build a reliable, data-driven model that can forecast the next-day closing price of AMAT using historical price data and technical indicators. By comparing AMAT’s performance with key peers such as **ASML**, **Lam Research (LRCX)**, **KLA (KLAC)**, and the **S&P 500** index, this project aims to better understand market correlations, trends, and predictive patterns that drive price action in this sector.
 
 ---
 
