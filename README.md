@@ -1,5 +1,5 @@
 # Applied Materials Stock Forecasting with Machine Learning
-This project uses Python and machine learning to forecast the next-day stock price of Applied Materials (AMAT) based on historical market trends and technical indicators. It is intended as a professional showcase of applied data science for finance and equity analysis.
+This project uses Python and machine learning to forecast the next-day stock price of Applied Materials (AMAT) based on historical market trends and technical indicators. It is intended as a professional showcase of applied data science for finance and stock analysis.
 
 ---
 
